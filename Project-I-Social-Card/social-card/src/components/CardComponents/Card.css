@@ -1,10 +1,5 @@
 /* All styles for your Card Components live here */
 
-.cardContainer {
-    border: 2px solid blue;
-    max-width: 500px;
-    margin: 0 auto;
-  }
 
   .cardBanner {
       margin: 0 auto;
@@ -29,4 +24,13 @@
     font-size: 16px;
     padding-top: 20px;
     padding-bottom: 10px;
+}
+
+.cardCopy {
+    max-width: 94%;
+    margin: 0 auto;
+}
+
+.contentPostInfo {
+    color: #999;
 }
