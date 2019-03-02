@@ -1,1 +1,31 @@
 /* All styles for your header Components live here */
+
+.postHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.postHeader img {
+    height: 40px;
+    border: 1px solid green;
+}
+
+.headerTitle {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.postInfo {
+    color: #999;
+    padding-left: 10px;
+}
+
+.headerContent {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid purple;
+}
+
