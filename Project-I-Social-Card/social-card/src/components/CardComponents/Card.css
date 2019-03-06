@@ -4,7 +4,7 @@
   .cardBanner {
       margin: 0 auto;
       min-height: 250px;
-      background: url('../images/reactbackground.png');
+      /* background: url('../images/reactbackground.png'); */
       background-size: cover;
       background-position: center;
       border-radius: 5px 5px 0 0;
@@ -33,4 +33,8 @@
 
 .contentPostInfo {
     color: #999;
+}
+
+.bannerImage {
+    max-width: 100%;
 }

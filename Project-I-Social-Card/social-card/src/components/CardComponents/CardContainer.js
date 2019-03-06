@@ -9,7 +9,6 @@ function CardContainer() {
         <div className='cardContent'>
             <CardBanner />
             <CardContent />
-
         </div>
     )
 }
