@@ -7,7 +7,7 @@ import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 const App = () => {
   return (
     <div className='appContainer'>
-    <a href="https://reactjs.org" target="_blank">
+    <a href="https://reactjs.org" target="new">
     <HeaderContainer />
      <CardContainer />
      </a>
